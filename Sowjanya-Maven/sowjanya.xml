@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="sowjanya">
+<test name="sowjanya">
+ <classes>
+ 
+   <class name="myPack.Sowjanya"/>
+ 
+ </classes>
+
+</test>
+</suite>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="sowjanya" duration-ms="40278" started-at="2019-02-09T06:44:25Z" finished-at="2019-02-09T06:45:05Z">
+    <groups>
+    </groups>
+    <test name="sowjanya" duration-ms="40278" started-at="2019-02-09T06:44:25Z" finished-at="2019-02-09T06:45:05Z">
+      <class name="myPack.Sowjanya">
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:myPack.Sowjanya@11baa65]" name="addEmp" duration-ms="30179" started-at="2019-02-09T12:14:25Z" finished-at="2019-02-09T12:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="deleteEmp()[pri:0, instance:myPack.Sowjanya@11baa65]" name="deleteEmp" duration-ms="0" started-at="2019-02-09T12:14:55Z" finished-at="2019-02-09T12:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmp -->
+        <test-method status="PASS" signature="addLocation()[pri:0, instance:myPack.Sowjanya@11baa65]" name="addLocation" duration-ms="0" started-at="2019-02-09T12:14:55Z" finished-at="2019-02-09T12:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLocation -->
+        <test-method status="PASS" signature="editEmp()[pri:0, instance:myPack.Sowjanya@11baa65]" name="editEmp" duration-ms="0" started-at="2019-02-09T12:14:55Z" finished-at="2019-02-09T12:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmp -->
+        <test-method status="PASS" signature="editLocation()[pri:0, instance:myPack.Sowjanya@11baa65]" name="editLocation" duration-ms="0" started-at="2019-02-09T12:14:55Z" finished-at="2019-02-09T12:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editLocation -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:myPack.Sowjanya@11baa65]" name="verifyLogin" duration-ms="10099" started-at="2019-02-09T12:14:55Z" finished-at="2019-02-09T12:15:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- myPack.Sowjanya -->
+    </test> <!-- sowjanya -->
+  </suite> <!-- sowjanya -->
+</testng-results>
